@@ -14,7 +14,7 @@ public class PrimitivesOperators {
         System.out.println("int =" + c);
 
         long l = 45000;
-        System.out.println("byte =" + l);
+        System.out.println("long =" + l);
 
         float f = 3.45f;
         System.out.println("float is :" + f);
